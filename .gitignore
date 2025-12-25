@@ -4,3 +4,4 @@
 *.zip
 *.gz
 *.tsv
+.env
